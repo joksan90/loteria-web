@@ -5,9 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Lotería Oficial</title>
 
-    <!-- FAVICON OFICIAL -->
-    <link rel="icon" type="image/png" href="https://i.postimg.cc/sXcgPJMZ/Picsart-26-09-18-08-28-37-079.png">
-
     <!-- SCRIPTS DE FIREBASE PARA TIEMPO REAL -->
     <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-database-compat.js"></script>
